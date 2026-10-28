@@ -29,4 +29,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🎯 ความสนใจและงานอดิเรก (Interests & Hobbies)
 - [กิจกรรมที่ชอบทำ วาดภาพ]
-![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+can+do+anything;Works+on+my+machine;Ctrl%2BC+Ctrl%2BV+Master;404+Sleep+Not+Found" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oongprogrammer&style=for-the-badge&color=blueviolet" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
