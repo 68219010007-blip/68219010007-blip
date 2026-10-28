@@ -17,9 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 👤 THITIKARN SOMKAEW (ธิติกานต์ สมแก้ว)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Smile-Thitikarn.formal-profile&left_color=2c3e50&right_color=34495e&left_text=Visitors)
-![Status](https://img.shields.io/badge/Status-Active-2e7d32?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Art%20%26%20Design-1565c0?style=flat-square)
 
 ---
 
