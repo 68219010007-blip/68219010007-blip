@@ -13,18 +13,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/68219010007-blip" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <div align="center">
 
+<div align="center">
+
 # ✨ 𝕊𝕄𝕀𝕃𝔼'𝕊 𝕎𝕆ℝ𝕃𝔻 ✨
 ### ─── ⋆⋅☆⋅⋆ ───
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Smile-Thitikarn.profile&left_color=ffb6c1&right_color=ff69b4&left_text=Visitors🌸)
-![Status](https://img.shields.io/badge/Status-Happy%20%26%20Creative-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
-![Hobby](https://img.shields.io/badge/Hobby-Artist-dda0dd?style=for-the-badge&logo=artstation&logoColor=white)
 
 <br/>
-
-
 ---
-
 </div>
 
 <br/>
@@ -33,10 +29,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 
+| 🏷️ **หัวข้อ** | 📝 **รายละเอียด** |
+| :---: | :--- |
 | **ชื่อ-นามสกุล** | **ธิติกานต์ สมแก้ว** *(Thitikarn Somkaew)* |
-| **ชื่อเล่น** | **สมาย** *(Smile)* 😊 |
-| **วันเกิด** | 🎂 13 กุมภาพันธ์ 2553 (13 Feb 2010) |
-| **อายุ** | 💖 16 ปี |
+| **ชื่อเล่น** | **สมาย** *(Smile)*  |
+| **วันเกิด** |  13 กุมภาพันธ์ 2553 (13 Feb 2010) |
+| **อายุ** |  16 ปี |
 | **สัญชาติ** | 🇹🇭 ไทย (Thai) |
 | **ศาสนา** |  พุทธ |
 
@@ -63,6 +61,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
 
 ### 🌷 ✨ 𝐻𝑎𝑣𝑒 𝑎 𝑤𝑜𝑛𝑑𝑒𝑟𝑓𝑢𝑙 𝑑𝑎𝑦! ✨ 🌷
+
+</div>
 
 </div>
 <p align="center">
