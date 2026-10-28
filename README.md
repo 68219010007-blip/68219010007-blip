@@ -15,55 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 
-
-
-
-<br/>
----
-</div>
-
-<br/>
-
-## ✦ 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 (เกี่ยวกับฉัน)
-
-<div align="center">
-
-|  **หัวข้อ** |  **รายละเอียด** |
-| :---: | :--- |
-| **ชื่อ-นามสกุล** | **ธิติกานต์ สมแก้ว** *(Thitikarn Somkaew)* |
-| **ชื่อเล่น** | **สมาย** *(Smile)*  |
-| **วันเกิด** |  13 กุมภาพันธ์ 2553 (13 Feb 2010) |
-| **อายุ** |  16 ปี |
-| **สัญชาติ** | 🇹🇭 ไทย (Thai) |
-| **ศาสนา** |  พุทธ |
-
-</div>
-
-<br/>
-
----
-
-##  𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑠 & 𝐻𝑜𝑏𝑏𝑖𝑒𝑠 (ความสนใจและงานอดิเรก)
-
-<br/>
-
--  **Drawing & Illustration (การวาดภาพ):** 
-  > *ชอบการวาดรูป ถ่ายทอดไอเดียและจินตนาการออกมาเป็นลายเส้นและสีสัน*
--  **Music & Relaxation (ฟังเพลง):** 
-  > *ผ่อนคลายด้วยการฟังเพลงหลากหลายสไตล์ขณะสร้างสรรค์ผลงาน*
-
-
-<br/>
-
----
-
-<div align="center">
-
-###  ✨ 𝐻𝑎𝑣𝑒 𝑎 𝑤𝑜𝑛𝑑𝑒𝑟𝑓𝑢𝑙 𝑑𝑎𝑦! ✨ 
-
-</div>
-
-</div>
+ THITIKARN SOMKAEW (ธิติกานต์ สมแก้ว)📌 ข้อมูลส่วนบุคคล (Personal Information)หัวข้อ (Item)รายละเอียด (Details)ชื่อ-นามสกุลนางสาว ธิติกานต์ สมแก้ว (Thitikarn Somkaew)ชื่อเล่นสมาย (Smile)วัน/เดือน/ปีเกิด13 กุมภาพันธ์ พ.ศ. 2553 (13 February 2010)อายุ16 ปีสัญชาติไทย (Thai)ศาสนาพุทธ🎯 ความสนใจและความชำนาญพิเศษ (Areas of Interest & Skills)🎨 ด้านศิลปะและการออกแบบ (Visual Arts & Design)การวาดภาพและการสร้างสรรค์ผลงาน (Drawing & Illustration):มีความสนใจและความหลงใหลในการถ่ายทอดแนวคิด ไอเดีย และเรื่องราวผ่านงานทัศนศิลป์การพัฒนาทักษะด้านการวาดภาพดิจิทัล (Digital Art) และสื่อผสม (Mixed Media)ความคิดสร้างสรรค์ (Creative Thinking):การประยุกต์ใช้องค์ประกอบศิลป์ การจัดวางองค์ประกอบภาพ (Composition) และการเลือกใช้โทนสี (Color Theory)📑 ประวัติการศึกษาและการพัฒนาตนเอง (Education & Continuous Learning)ระดับการศึกษาปัจจุบัน: มัธยมศึกษาการเรียนรู้เพิ่มเติม: ศึกษาและฝึกฝนเทคนิคการวาดภาพ สไตล์งานศิลปะรูปแบบต่างๆ และเทคโนโลยีการออกแบบอย่างต่อเนื่องProfile maintained by Thitikarn Somkaew
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+can+do+anything;Works+on+my+machine;Ctrl%2BC+Ctrl%2BV+Master;404+Sleep+Not+Found" />
 </p>
