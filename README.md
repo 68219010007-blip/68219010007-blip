@@ -27,12 +27,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-## 🛠️ ทักษะและความสามารถ (Skills)
-* **Hard Skills:**
-  * [ภาษาคอมพิวเตอร์ / โปรแกรมที่ใช้ได้ เช่น Python, Figma, SQL]
- 
----
-
 ## 🎯 ความสนใจและงานอดิเรก (Interests & Hobbies)
 - [กิจกรรมที่ชอบทำ วาดภาพ]
-
+![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
