@@ -33,7 +33,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 
-
 | **ชื่อ-นามสกุล** | **ธิติกานต์ สมแก้ว** *(Thitikarn Somkaew)* |
 | **ชื่อเล่น** | **สมาย** *(Smile)* 😊 |
 | **วันเกิด** | 🎂 13 กุมภาพันธ์ 2553 (13 Feb 2010) |
